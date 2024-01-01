@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://bbb1293.github.io/sitemap.xml
